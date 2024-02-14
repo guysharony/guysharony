@@ -4,8 +4,7 @@ I'm pursuing my Master's degree in Data Engineering at School 42 in Paris.
 
 ## 💻 Skills & Expertise
 
-- **Full Stack Development**: Proficient in TypeScript/JavaScript for both front end and back end development.
-- **Serverless Architecture**: Expert in serverless AWS applications using Lambda, API Gateway, and DynamoDB for scalable solutions.
+- **Full Stack Development & Serverless**: Proficient in TypeScript/JavaScript for both front-end and back-end development, as well as in serverless architecture using AWS services.
 - **Data Engineering**: Passionate about data engineering (learning in progress).
 
 ## 📫 Let's Connect
