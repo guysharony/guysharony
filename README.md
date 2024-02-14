@@ -9,8 +9,5 @@ I'm pursuing my **Master's degree** in **Data Engineering** at **School 42** in 
 
 ## 📫 Let's Connect
 
-You can reach out to me via:
-
-- [LinkedIn](https://www.linkedin.com/in/guy-sharony/)
-
+You can reach out to me via [LinkedIn](https://www.linkedin.com/in/guy-sharony/).
 I'm always open to collaboration and new opportunities. Don't hesitate to get in touch!
