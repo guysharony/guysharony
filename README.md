@@ -1,6 +1,6 @@
 # Hi there, I'm Guy Sharony! 👋
 
-I'm pursuing my Master's degree in Data Engineering at School 42 in Paris.
+I'm pursuing my **Master's degree** in **Data Engineering** at **School 42** in Paris.
 
 ## 💻 Skills & Expertise
 
